@@ -208,7 +208,7 @@
         right: 1px;
         bottom: 1px;
         /* top: 244px; */
-        left: 881px;
+        /* left: 881px; */
         z-index: 2;
         animation: slidein 1s ease-in-out forwards;
     }
@@ -219,7 +219,7 @@
         width: 638px;
         position: absolute;
         right: 39px;
-        left: 767px;
+        /* left: 767px; */
         bottom: -24px;
         /* top: 244px; */
         z-index: 1;
@@ -267,10 +267,9 @@
         flex-direction: column;
         background-color: #e9f1dd;
     }
-
-    .landingpage {
+   /* .landingpage {
         width: 50vw;
-    }
+    } */
 
     .landingpage #logo {
         width: 310px;
