@@ -300,13 +300,13 @@
         cursor: pointer;
         pointer-events: visible;
     }
-    /* button.btn {
+     button.btn {
         transition: all 0.03s linear;
     }
     button.btn:active {
         box-shadow: 0 0 2px darkslategray;
         transform: translateY(2px);
-    } */
+    }
 
     .landingpage h1 {
         width: max-content;
