@@ -147,7 +147,7 @@
 
     .landingpage #logo {
         position: relative;
-        top: 16vh;
+        top: 14vh;
         left: 5vw;
         width: 100%;
         max-width: 535px;
@@ -218,7 +218,7 @@
         /* width: 723px; */
         width: 770px;
         position: absolute;
-        right: 1px;
+        right: 0px;
         bottom: 1px;
         /* top: 244px; */
         left: 881px;
@@ -231,7 +231,7 @@
         height: auto;
         width: 638px;
         position: absolute;
-        right: 39px;
+        right: 38px;
         left: 767px;
         bottom: -24px;
         /* top: 244px; */
