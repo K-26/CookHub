@@ -425,6 +425,12 @@ button:active {
     }
 }
 @media (max-height: 475px){
+    .landingpage #logo {
+        width: 270px;
+    }
+    .landingpage p {
+        font-size: 10px;
+    }
     .landingpage #main {
         width: 251px;
     }
