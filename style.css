@@ -424,3 +424,12 @@ button:active {
         width: 271px;
     }
 }
+@media (max-height: 475px){
+    .landingpage #main {
+        width: 251px;
+    }
+    
+    .landingpage #mainbg {
+        width: 221px;
+    }
+}
